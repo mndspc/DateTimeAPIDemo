@@ -1,0 +1,13 @@
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\DateTime-Demo\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe.config
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\DateTime-Demo\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\DateTime-Demo\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.pdb
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\DateTime-Demo\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.csproj.CoreCompileInputs.cache
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\DateTime-Demo\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.exe
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\DateTime-Demo\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.pdb
+D:\Corporate\Vinsys\JK Tech\Batch-2\C#\Demos\DateTime-Demo\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.csprojAssemblyReference.cache
+D:\Corporate\Nordic Academy\C#\Demos\DateTimeAPIDemo\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe.config
+D:\Corporate\Nordic Academy\C#\Demos\DateTimeAPIDemo\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.exe
+D:\Corporate\Nordic Academy\C#\Demos\DateTimeAPIDemo\DateTimeDemo\DateTimeDemo\bin\Debug\DateTimeDemo.pdb
+D:\Corporate\Nordic Academy\C#\Demos\DateTimeAPIDemo\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.csproj.CoreCompileInputs.cache
+D:\Corporate\Nordic Academy\C#\Demos\DateTimeAPIDemo\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.exe
+D:\Corporate\Nordic Academy\C#\Demos\DateTimeAPIDemo\DateTimeDemo\DateTimeDemo\obj\Debug\DateTimeDemo.pdb
